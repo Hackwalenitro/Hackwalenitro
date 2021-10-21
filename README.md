@@ -5,6 +5,6 @@
 - 📫 How to reach me ... Erraviraj5560@gmail.com
 
 <!---
-Hackwalenitro/Hackwalenitro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hackwalanitro/Hackwalanitro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
